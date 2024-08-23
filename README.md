@@ -1,4 +1,4 @@
-## ¡Hola! 👋 Soy [Luis Diego Rodriguez]
+## ¡Hola! 👋 Soy Luis Diego Rodriguez
 
 Soy un estudiante de Análisis de Datos en la Facultad de Ingeniería de la Universidad Nacional de Entre Ríos (FIUNER). Tengo 19 años y estoy apasionado por el mundo de los datos y la tecnología.
 
