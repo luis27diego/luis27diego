@@ -1,6 +1,6 @@
 ## ¡Hola! 👋 Soy Luis Diego Rodriguez
 
-Soy un estudiante de Análisis de Datos en la Facultad de Ingeniería de la Universidad Nacional de Entre Ríos (FIUNER). Tengo 19 años y estoy apasionado por el mundo de los datos y la tecnología.
+Ciencia de Datos gradudado en la Facultad de Ingeniería de la Universidad Nacional de Entre Ríos (FIUNER). Tengo 21 años y estoy apasionado por el mundo de los datos y la tecnología.
 
 
 ### 🔧 Tecnologías que me encantan:
@@ -11,11 +11,10 @@ Soy un estudiante de Análisis de Datos en la Facultad de Ingeniería de la Univ
 - HTML & CSS 🎨: Para diseñar páginas web atractivas.
 
 ### 🎓 Educación:
-Análisis de Datos - Facultad de Ingeniería, Universidad Nacional de Entre Ríos (FIUNER)
+Ciencia de Datos - Facultad de Ingeniería, Universidad Nacional de Entre Ríos (FIUNER)
 
 ### 🌱 Actualmente aprendiendo:
 Profundizando mis conocimientos en Machine Learning.
-Explorando nuevas librerías y frameworks en Python y React.
 
 💬 Contáctame:
 luisdiegorodraguilar2004@hotmail.com
